@@ -1,0 +1,21 @@
+<mj-section background-color="white" padding="0px">
+    <mj-column>
+        <mj-button href="https://hbomax.com" align="center" border-radius="30px" background-color="#002be7" font-weight="bold" color="#00f0ff" font-size="18px" line-height="20px" font-family="helvetica neue,helvetica,arial,sans-serif" padding="10px 20px 20px 25px" width="250px">
+            REDEEM NOW
+        </mj-button>    
+        <mj-text line-height="12px" font-size="10px" font-family='Helvetica Neue,Helvetica,Arial,sans-serif'>
+           <p>
+                Offer valid from November 20, 2023 to November 27, 2023. This offer is for 1) new and returning Max customers via max.com and through the following participating subscription providers: Roku, Google Play, and Apple and 2) new Max customers via Amazon Fire.
+           </p>
+            <p>
+                Eligible customers who take advantage of this promotional offer will get access to the Max With Ads monthly plan at a discounted rate of $2.99 per month for 6 months. Offer valid in the U.S. only. Offer may be redeemed only once and cannot be combined with any other promotional or free trial offer for Max.
+            </p>
+            <p>
+                To sign up for Max, you must be 18+ and need a valid method of payment. After your discounted subscription period, your subscription will auto-renew each month at the then-current subscription price for the With Ads monthly plan (currently, $9.99/mo. plus applicable tax), on a recurring basis, unless you cancel before the renewal. To cancel your subscription, see Subscription in your Max account. If you switch plans during your promotional period, you will lose the benefit of your promotional offer. If you cancel your subscription, you will continue to have access to Max for the remainder of time you have already paid for.
+            </p>
+            <p>
+                B/R Sports Add-On included for a limited time with Max subscription. Subject to change at any time during your promotional period.
+            </p>
+        </mj-text>
+    </mj-column>
+</mj-section>

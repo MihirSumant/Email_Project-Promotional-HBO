@@ -1,0 +1,40 @@
+<mj-section background-color="white" padding="0px">
+<mj-group>
+  <mj-column padding="0px">
+    <mj-image src="https://i.postimg.cc/0Q37VxjQ/LogoFB.png" href="https://www.facebook.com/streamonmax?lid=8z6tfm74xm3x" alt="Facebook Logo" width="24px" height="24px" />
+  </mj-column>
+  <mj-column padding="0px">
+    <mj-image src="https://i.postimg.cc/gk33HCWz/LogoX.png" href="https://twitter.com/streamonmax?lid=vlw0omrvhkmb" alt="X/Twitter Logo" width="24px" height="24px" />
+  </mj-column>
+  <mj-column padding="0px">
+    <mj-image src="https://i.postimg.cc/05Tpm8hX/LogoIG.png" href="https://www.instagram.com/streamonmax/?lid=88qox7b9hvij" alt="Instagram Logo" width="24px" height="24px" />
+  </mj-column>
+  <mj-column padding="0px">
+    <mj-image src="https://i.postimg.cc/x8zM77NP/Logo-Tik-Tok.png" href="https://ablink.stream.max.com/ls/click?upn=Gje5LKVH-2FXrx73CmItOJsBvScX2q7fe4P8IQq4Pklq9B11y6MKPgP-2BHY1Hwzz3C011IC5Mh3ZKUFy7tQmkG49sDgETlBhLMMtlY3t-2FeYaAruqvKHOBGrmViiNV5KuZvL2Or9eR0-2FJtdP2Zwlmfj47sHfk9P49JxppFv7xlptfGw-3DasAl_-2Bd2CCTa2QWrj-2FDAv1-2BR0Yv2TAqbqIpzX6m1N5Zd5y-2FyXTIDLTjMo1MREnqX1xfF7VK0QHVw4uBriDl8blYCZZ7XQvgz0nU28RuAUN08oF9aOdohSQOB9bv2I23iHZ9ZqvhwUAtvEWLVv5VBRuJ64XplYS4DJEDhnxcbzA96hC54hFunlfp9qbVF7kR-2F5VOrq2dM9NqIeZKSkgl4E6yTt6MTmydl7sKGR2oTKXN6SgKNL-2BPkhN3N8seJvqs1xK-2BeiqSASiiSbBxNrBgHnWTEBFjvB8HYFHRyR6ljntjrwhvmJ2gAuk0VXQ1ozriZOIBNNwgB7wS2c6yy-2FZv1NoVy03jBPqIyuEKUTzCAdChJoW8IDdxph6y3B7vx5CRMzKFCKOpUr1o-2FWOk1-2B3zMfnthVm2YiNDWyojCGgA4SQf-2FZ8dzCYjc2USAPhAPQTiyg-2F1oXfgD42e8DoYoJ9imUxStADv-2FW4gJOoe1NfPVKTXET7GdK7cLqqTD0cT2nVbBo3fVf65sjnloB9ezTbWmrSG8Ecr3n0yBo8K-2FJAYolFWn-2BCyWbXci4MySNyx-2BDwvEOxGc48s4NJ-2FggzqvClUzryEEZ3VL89xGIfQJYgrbbgetXdtvt744OTdaWOcY7zNAKJFvO5yuzQ33giHOjKzeDmBpucvkxEp7v5VJvj5XSm6WsWLssm78tbyKIeSE2CHzvKiM-2B1QedgKwd3yDUtZSiZI4Ykg-3D-3D" alt="Tik Tok logo" width="24px" height="24px" />
+  </mj-column>
+</mj-group>
+</mj-section>
+<mj-section background-color="white" padding="0px">
+  <mj-column>
+    <mj-text css-class="links" line-height="18px" font-size="12px" font-family="Helvetica Neue, Helvetica, Arial ,sans-serif">
+      <p align="center">
+        230 Park Avenue South, New York, NY 10003
+        <br>
+        ©2023 WarnerMedia Direct, LLC. All Rights Reserved.
+      </p>
+      <p align="center">
+        <a href="https://www.max.com/?lid=d1n9v88j090y">max.com</a>
+        | <a href="https://www.max.com/privacy?lid=s34rxelwr3sh">Privacy Policy</a>
+        | <a href="https://www.subscriber.max.com/unsubscribe/?lid=iyurexp3zwqy&country=PA&hash=3fccc40b2d1761c25207d9fb60329212c3bf62de1fedf3dd8791607bf5261523&userId=43077be2-95f5-42f5-ac93-f0c73163a15c">Unsubscribe</a>
+        | <a href="https://ablink.stream.max.com/ls/click?upn=Gje5LKVH-2FXrx73CmItOJsKDGhIohVmwagWqhpTY15tdjLvkT4c8mKQMfUc3u6oQUs4AE_-2Bd2CCTa2QWrj-2FDAv1-2BR0Yv2TAqbqIpzX6m1N5Zd5y-2FyXTIDLTjMo1MREnqX1xfF7VK0QHVw4uBriDl8blYCZZ7XQvgz0nU28RuAUN08oF9aOdohSQOB9bv2I23iHZ9ZqvhwUAtvEWLVv5VBRuJ64XplYS4DJEDhnxcbzA96hC54hFunlfp9qbVF7kR-2F5VOrq2dM9NqIeZKSkgl4E6yTt6MTmydl7sKGR2oTKXN6SgKNL-2BPkhN3N8seJvqs1xK-2BeiqSASiiSbBxNrBgHnWTEBFjvB8HYFHRyR6ljntjrwhvmJ2gAuk0VXQ1ozriZOIBNNwgB7wS2c6yy-2FZv1NoVy03jBPqIyuEKUTzCAdChJoW8IDdxph6y3B7vx5CRMzKFCKOpUr1o-2FWOk1-2B3zMfnthVm2YiNDWyojCGgA4SQf-2FZ8dzCYjc2USAPhAPQTiyg-2F1oXfgD42e8DoYoJ9imUxStADv-2FW4gJOoe1NfPVKTXET7GdK7cLqqTD0cT2nVbBo3fVf65sjnloB9ezTbWmrSG8Ecr3n0yBo8K-2FJAYolFWn-2BCyWbXci4MySNyx-2BDwvEOxGc4uMKF6U8Tii1sRxWGlSBQWJ1vigx-2BQVXhCl3iRwNyXQB0V1I63mbXBMg-2BgvDkxRUuV-2FKI6uwtyr9vfySM-2FM1xKG4fjrxvOOlj43dTHFY9xPP7ymTQ9O5VKCzO8m2S6WaVLUjY2HkO5X3N9tQ0RpxhMg-3D-3D">Help</a>
+      </p>
+      <p align="center">
+        This email was sent from a notification-only address that cannot accept incoming email.
+        <br>
+        Please do not reply to this message.
+        <br>
+        Reference ID: 0521
+      </p>
+    </mj-text>
+  </mj-column>
+</mj-section>

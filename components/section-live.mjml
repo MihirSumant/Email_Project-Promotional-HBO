@@ -1,0 +1,14 @@
+<mj-section background-color="white" padding="0px">
+    <mj-column  padding-bottom="18px">
+    <mj-text css-class="section-title" font-size="48px" font-weight="bold" font-family="helvetica neue,helvetica,arial,sans-serif" line-height="48px">
+      Now Streaming Live News & Sports
+    </mj-text>
+    <mj-text font-size="22px" line-height="33px" padding-bottom="17px" font-family="helvetica neue,helvetica,arial,sans-serif">
+      Stay up to date with breaking news from CNN Max, and watch select live games from the NBA, NHL, U.S. Soccer, and more with the B/R Sports Add-On, on us for a limited time.
+    </mj-text>
+    <mj-image src="https://i.postimg.cc/dQk2L7NT/Live-Sports-News.jpg" alt="Sliptscreen of CNN and NBA" href="https://ablink.stream.max.com/ls/click?upn=Gje5LKVH-2FXrx73CmItOJsASOE-2F-2FxYtMYQ-2BglJltD4YUHs53AejyMmwLESmTLamcexPnGbGehRzT0yNddarBIj4Ww2DxdgpRIkNMu0nwzdxSc5CK344reE2zM9UxbvoBUPRZ5c8iSUTzfrlzmHZvqopxM4KxS0F5AMJfMRgWuK-2Bt5tpil-2FF8cqWDLeyhIBx3oD-2FQkLvsgKGj0aSAiFaY8ng-3D-3Dx_F3_-2Bd2CCTa2QWrj-2FDAv1-2BR0Yv2TAqbqIpzX6m1N5Zd5y-2FyXTIDLTjMo1MREnqX1xfF7VK0QHVw4uBriDl8blYCZZ7XQvgz0nU28RuAUN08oF9aOdohSQOB9bv2I23iHZ9ZqvhwUAtvEWLVv5VBRuJ64XplYS4DJEDhnxcbzA96hC54hFunlfp9qbVF7kR-2F5VOrq2dM9NqIeZKSkgl4E6yTt6MTmydl7sKGR2oTKXN6SgKNL-2BPkhN3N8seJvqs1xK-2BeiqSASiiSbBxNrBgHnWTEBFjvB8HYFHRyR6ljntjrwhvmJ2gAuk0VXQ1ozriZOIBNNwgB7wS2c6yy-2FZv1NoVy03jBPqIyuEKUTzCAdChJoW8IDdxph6y3B7vx5CRMzKFCKOpUr1o-2FWOk1-2B3zMfnthVm2YiNDWyojCGgA4SQf-2FZ8dzCYjc2USAPhAPQTiyg-2F1oXfgD42e8DoYoJ9imUxStADv-2FW4gJOoe1NfPVKTXET7GdK7cLqqTD0cT2nVbBo3fVf65sjnloB9ezTbWmrSG8Ecr3n0yBo8K-2FJAYolFWn-2BCyWbXci4MySNyx-2BDwvEOxGc4npSJ5c3f0UNlT7XhUDdDoZnf53ja7f4wIvImdsF5Ldlsxw5tT9RzPtAnVuEcY56YicMsYOiXGJNVEKZv8KPeyyWKJrEW9T5Ku4eLMamHbusqM-2FXTRI6mKDufzeHgoABbE9txsTv94X1DHi5a-2F0WC7A-3D-3D" />
+    <mj-text font-size="10px" line-height="12px">
+      B/R Sports Add-On included for a limited time with a Max subscription. Subject to change at any time during your promotional period.
+    </mj-text>
+  </mj-column>
+</mj-section>

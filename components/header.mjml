@@ -1,0 +1,32 @@
+<mj-section background-color="white" padding-top="0px">
+    <mj-column background-color="#f5f5f7" padding-bottom="30px">
+        <mj-image src="https://i.postimg.cc/cH6LrSFs/Banner-Header.jpg" alt="max logo on blue banner" padding="0px"/>
+        <mj-image src="https://i.postimg.cc/d1mKBQ4R/Top-Shows-Gif.gif" alt="gif of top HBO shows" padding="0px"/>
+        <mj-image src="https://i.postimg.cc/R0SFxffJ/Banner-Discount.png" alt="Black Friday Deal, Offer Ends Monday. 2.99/month for 6 months, Valid only on with ads plan" padding="0px" padding-bottom="17px"/>
+        <mj-text font-size="48px" font-weight="bold" font-family="helvetica neue,helvetica,arial,sans-serif" line-height="48px">
+            Come Back & Save!            
+        </mj-text>
+        <mj-text font-size="22px" line-height="33px" font-family="helvetica neue,helvetica,arial,sans-serif"> 
+            See what you’re missing.
+            From the latest movie premieres to iconic series,
+            plus live news and sports,
+            there’s so much more to stream.
+        </mj-text>
+        <mj-text font-size="22px" line-height="33px" font-family="helvetica neue,helvetica,arial,sans-serif">
+            Get it all for just <b>$2.99/month for 6 months</b>. Hurry! Offer ends Monday.    
+        </mj-text>
+        <mj-button  href="https://hbomax.com" align="left" border-radius="30px" background-color="#002be7" font-weight="bold" color="#00f0ff" font-size="18px" line-height="30px" font-family="helvetica neue,helvetica,arial,sans-serif" width="250px">
+            REDEEM NOW
+        </mj-button>
+        <mj-text font-size="10px" line-height="12px" padding-top="20px">
+            Valid only on the With Ads plan.
+            Offer ends 11/27/23. Terms apply.
+            Visit <a href="https://hbomax.com"> max.com</a> for details.        
+        </mj-text>
+    </mj-column>
+</mj-section>
+
+
+
+      
+      

@@ -1,0 +1,5 @@
+<mj-section background-color="white" padding="0px">
+  <mj-column>
+    <mj-image alt="Footer Image, MAX logo" href="https://hbomax.com" src="https://i.postimg.cc/ZRgKNMQ6/Banner-Footer.png" padding="0px" />
+  </mj-column>
+</mj-section>

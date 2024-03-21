@@ -1,0 +1,14 @@
+<mjml>
+    <mj-head>
+        
+    </mj-head>
+    <mj-body background-color="#e0e0e0">
+        <mj-include path="./components/header.mjml" />
+        <mj-include path="./components/section-live.mjml" />
+        <mj-include path="./components/section-shows-grid.mjml" />
+        <mj-include path="./components/section-channels.mjml" />
+        <mj-include path="./components/section-conditions.mjml" />
+        <mj-include path="./components/section-footer.mjml" />
+        <mj-include path="./components/footer.mjml" />
+    </mj-body>
+</mjml>
